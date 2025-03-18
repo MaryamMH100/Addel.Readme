@@ -1,7 +1,7 @@
 # Addel - Pustue Detector App
 ### Your AI Posture Coach
 
-![AddelIconApp4](https://github.com/user-attachments/assets/bd8aa25b-db95-46a0-85f1-f542103a9932)
+[![AddelIconApp4](https://github.com/user-attachments/assets/bd8aa25b-db95-46a0-85f1-f542103a9932)](https://github.com/MaryamMH100/Addel.Readme/blob/main/AddelIconApp4.png)
   
 **Improve Your Posture, Stay Healthy**
 
@@ -16,14 +16,14 @@
 - ✔ Guided posture exercises for neck, shoulders, and back
 
 ## Screenshots
-  <img width="1710" alt="‏لقطة الشاشة ٢٠٢٥-٠٣-١٤ في ٢ ٤٧ ٣٣ ص" src="https://github.com/user-attachments/assets/0bee2ea3-405d-40b8-8a0b-717ad1000b7e" />
-<img width="1710" alt="‏لقطة الشاشة ٢٠٢٥-٠٣-١٤ في ٢ ٤٧ ٤٧ ص" src="https://github.com/user-attachments/assets/0e14336d-81d7-4672-8f2f-2858896eb513" />
+  [<img width="1710" alt="‏لقطة الشاشة ٢٠٢٥-٠٣-١٤ في ٢ ٤٧ ٣٣ ص" src="https://github.com/user-attachments/assets/0bee2ea3-405d-40b8-8a0b-717ad1000b7e" />](https://github.com/MaryamMH100/Addel.Readme/blob/main/AddelMain.png)
+[<img width="1710" alt="‏لقطة الشاشة ٢٠٢٥-٠٣-١٤ في ٢ ٤٧ ٤٧ ص" src="https://github.com/user-attachments/assets/0e14336d-81d7-4672-8f2f-2858896eb513" />](https://github.com/MaryamMH100/Addel.Readme/blob/main/AddelExercises.png)
 
 
 
 ## Download Now
 Get "عدل" today and improve your posture!  
-<img width="1074" alt="Screenshot 2025-03-18 at 1 44 34 PM" src="https://github.com/user-attachments/assets/9bd2e64a-f5f5-432f-8a62-cca84ddbe10e" />
+[<img width="1074" alt="Screenshot 2025-03-18 at 1 44 34 PM" src="https://github.com/user-attachments/assets/9bd2e64a-f5f5-432f-8a62-cca84ddbe10e" />](https://github.com/MaryamMH100/Addel.Readme/blob/main/AddelCallToAction.png)
 
 ### App Store Linke 🔗: [https://apps.apple.com/us/app/addel-%D8%B9%D8%AF-%D9%84/id6743121131]
 
