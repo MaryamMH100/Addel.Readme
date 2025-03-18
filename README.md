@@ -1,7 +1,7 @@
 # Addel - Pustue Detector App
 ### Your AI Posture Coach
 
-[![AddelIconApp4](https://github.com/user-attachments/assets/bd8aa25b-db95-46a0-85f1-f542103a9932)](https://github.com/MaryamMH100/Addel.Readme/blob/main/AddelIconApp4.png)
+[[![AddelIconApp4](https://github.com/user-attachments/assets/bd8aa25b-db95-46a0-85f1-f542103a9932)](https://github.com/MaryamMH100/Addel.Readme/blob/main/AddelIconApp4.png)](https://private-user-images.githubusercontent.com/156489909/423954266-d9852820-305d-493b-95d1-46fec82ad5db.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIyOTgwNDUsIm5iZiI6MTc0MjI5Nzc0NSwicGF0aCI6Ii8xNTY0ODk5MDkvNDIzOTU0MjY2LWQ5ODUyODIwLTMwNWQtNDkzYi05NWQxLTQ2ZmVjODJhZDVkYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxOFQxMTM1NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNzE5ODJlNWYxMzM0NjNkMjA1NjliY2RjYjZlYzY3MzU2ZmU4MDAyMTAwNjJmZmNkNTZiNjM1ZTg3YmRiOWNjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.LY4yePGOQiZoYu3N-2AW4LSQSKrxR69Y7eEBqBVP1Rs)
   
 **Improve Your Posture, Stay Healthy**
 
